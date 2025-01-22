@@ -1,0 +1,75 @@
+﻿ID,Métier,Branche,Service,Poids
+27,Automaticien,BE Industrie,Industrie,5
+28,Dessinateur,BE Industrie,Industrie,5
+30,Dessinateur projeteur,BE Industrie,Industrie,5
+31,Ingénieur bureau d'études,BE Industrie,Industrie,5
+29,Ingénieur d'étude et développement,BE Industrie,Industrie,5
+1,Electricien industriel,instalation et maintenance,Industrie,10
+2,Electromécanicien,instalation et maintenance,Industrie,10
+3,Mécanicien de maintenance,instalation et maintenance,Industrie,10
+4,Opérateur commande numérique,instalation et maintenance,Industrie,10
+5,Responsable maintenance,instalation et maintenance,Industrie,10
+6,Technicien de maintenance,instalation et maintenance,Industrie,10
+65,Acheteur industriel,Production,Industrie,15
+7,Agent de maintenance,Production,Industrie,15
+8,Ajusteur,Production,Industrie,15
+16,Assistant Logistique,Production,Industrie,15
+24,Câbleur,Production,Industrie,15
+25,Câbleur électronique,Production,Industrie,15
+9,Carrossier,Production,Industrie,15
+10,Chaudronnier,Production,Industrie,15
+11,Conducteur de ligne,Production,Industrie,15
+12,Conducteur de machine Iaa,Production,Industrie,15
+13,Fraiseur,Production,Industrie,15
+18,Mécanicien,Production,Industrie,15
+19,Mécanicien monteur,Production,Industrie,15
+15,Monteur,Production,Industrie,15
+14,Monteur câbleur,Production,Industrie,15
+20,Peintre industriel,Production,Industrie,15
+17,Qualiticien,Production,Industrie,15
+75,Secrétaire technique,Production,Industrie,15
+21,Soudeur,Production,Industrie,15
+26,Tôlier,Production,Industrie,15
+22,Tourneur,Production,Industrie,15
+23,Tuyauteur,Production,Industrie,15
+35,Ingénieur méthodes,R&D,Industrie,5
+36,Ingénieur qualité,R&D,Industrie,5
+32,Technicien bureau d'études,R&D,Industrie,5
+37,Technicien chimiste,R&D,Industrie,5
+38,Technicien contrôle qualité,R&D,Industrie,5
+33,Technicien en électronique,R&D,Industrie,5
+34,Technicien méthodes,R&D,Industrie,5
+39,Analyste programmeur,Developpement,SI,2
+40,Chef de projet technique,Developpement,SI,2
+43,Concepteur réalisateur IT,Developpement,SI,2
+42,Consultant informatique,Developpement,SI,2
+44,Ingénieur d'étude et dévellopement,Developpement,SI,2
+45,Ingénieur sécurité,Developpement,SI,2
+41,Responsable informatique,Developpement,SI,2
+48,Administrateur système,Support,SI,2
+46,Technicien de support,Support,SI,2
+47,Technicien Help Desk,Support,SI,2
+72,Assistant,assistanat,Tertiaire,3
+73,Assistant de direction,assistanat,Tertiaire,3
+74,Secrétaire,assistanat,Tertiaire,3
+76,Assistant commercial,Commerce,Tertiaire,4
+49,Attaché commercial,Commerce,Tertiaire,4
+56,Chargé d'accueil,Commerce,Tertiaire,4
+50,Chargé d'affaires,Commerce,Tertiaire,4
+52,Compliance officer,Commerce,Tertiaire,4
+53,Média planner,Commerce,Tertiaire,4
+51,Responsable de boutique,Commerce,Tertiaire,4
+55,Technico-commercial,Commerce,Tertiaire,4
+54,Vendeur,Commerce,Tertiaire,4
+60,Aide comptable,Comptabilité,Tertiaire,2
+57,Comptable,Comptabilité,Tertiaire,2
+58,Comptable confirmé,Comptabilité,Tertiaire,2
+61,Comptable Fournisseur,Comptabilité,Tertiaire,2
+59,Contrôleur de gestion,Comptabilité,Tertiaire,2
+64,Acheteur,RH - juridique - achats,Tertiaire,2
+62,Assistant juridique,RH - juridique - achats,Tertiaire,2
+63,Assistant RH,RH - juridique - achats,Tertiaire,2
+67,Juriste,RH - juridique - achats,Tertiaire,2
+68,Responsable achats-approvisionnement,RH - juridique - achats,Tertiaire,2
+69,Technicien paie,RH - juridique - achats,Tertiaire,2
+66,Webmestre,RH - juridique - achats,Tertiaire,2

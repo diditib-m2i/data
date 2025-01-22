@@ -1,0 +1,9 @@
+ID,Court,long,Poids
+1,RH,Resources humaines,3
+2,Compta,Comptabilité,10
+3,Market,Marketing,15
+4,Prod,Production,20
+5,Comm,Commercial,30
+6,Achats,Achats,10
+7,Dir,Direction,2
+8,R&D,Recherche et developpement,10
